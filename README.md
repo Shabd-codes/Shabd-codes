@@ -1,27 +1,39 @@
 # Hi 👋 I'm Shabd Choudhary
 
-📊 Aspiring Data Analyst | 🤖 AI/ML Learner  
+🤖 Aspiring AI Engineer | 💻 Software Development & Generative AI Enthusiast
 
 ## 🔹 About Me
-I am learning data analysis and machine learning with a strong interest in working on real-world datasets and building data-driven solutions.
+I am a Computer Science student passionate about building AI-powered applications and solving real-world problems through software development. Currently, I am focused on Generative AI, Python, Data Structures & Algorithms, and developing practical AI projects.
 
 ## 🔹 Skills
+- Java
 - Python
 - SQL
-- Pandas & NumPy
-- Data Visualization
-- Machine Learning Basics
+- Data Structures & Algorithms
+- Generative AI
+- Prompt Engineering
 
-## 🔹 Tools
-- Excel
-- Power BI / Tableau
+## 🔹 Tools & Technologies
+- Git & GitHub
 - Jupyter Notebook
-- GitHub
+- VS Code
+- Gemini / LLM APIs
+- Streamlit (Learning)
 
 ## 🔹 Currently Learning
-- Machine Learning
-- Deep Learning
-- Statistics
+- IBM Advanced Generative AI
+- Python for AI Development
+- SQL
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Git & GitHub
+
+## 🔹 Future Focus
+- AI Engineering
+- LLM Applications
+- RAG Systems
+- AI Assistants & Chatbots
+- AI-Powered Software Products
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/shabd-choudhary-8342073a6/
